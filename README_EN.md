@@ -1,3 +1,5 @@
+> **Unofficial archive:** the original Ai-Thinker-Open repository is no longer online. See [ARCHIVE_NOTICE.md](ARCHIVE_NOTICE.md).
+
 [Ai-Thinker GPRS C SDK](https://github.com/Ai-Thinker-Open/GPRS-C-SDK)
 =====
 

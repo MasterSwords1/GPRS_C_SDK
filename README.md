@@ -1,3 +1,5 @@
+> **非官方存档 (Unofficial archive):** 原 Ai-Thinker-Open 仓库已下线，详见 [ARCHIVE_NOTICE.md](ARCHIVE_NOTICE.md)。
+
 [Ai-Thinker GPRS C SDK](https://github.com/Ai-Thinker-Open/GPRS-C-SDK)
 =====
 
